@@ -5,3 +5,4 @@
 ### receitas:
 
 - strogonoff de frango
+- Pavê
